@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+#terceira-sessao{
+    background-color: yellow;
+    text-align: center;
+    width: 100%; 
+}
+
+#terceiro-titulo{
+    font-size: 25px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(180, 121, 11);
+}
+
+#terceiro-p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 15px;
+}
